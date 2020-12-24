@@ -1,0 +1,39 @@
+.Frm ul, .Frm li{
+	border:0;margin:0;padding:0;list-style:none;
+}
+.Frm li{
+	clear:both; list-style:none;padding-bottom:10px;
+}
+.Frm label{
+	width:140px;float:left;
+}
+.Frm input{
+	float:left;
+}
+.header{
+	margin:20px 0;
+
+}
+.submit{
+	margin-top:20px;
+}
+footer{
+	margin: 50px 50px;display:block;
+}
+header p{
+	font-weight:bold;
+}
+#message{
+	margin:20px 0;
+}
+#importStudentsLink{
+	display:block;
+	float:right;
+}
+#importStudentsFrm{
+	display:block;
+	float:right;
+}
+#importStudents p{
+	float:right;
+}

@@ -1,0 +1,1 @@
+drop function fn_getFullName;

@@ -1,0 +1,1 @@
+alter table students auto_increment = 4;
